@@ -14,8 +14,8 @@ export default function Contact() {
             Let's talk about your deployment
           </h2>
           <div className="contact-info">
-            <p data-emoji="📍">📍 400 Innovation Way, San Francisco, CA</p>
-            <p data-emoji="📞">📞 +1 (415) 555-0198</p>
+            <p data-emoji="📍">📍 Vellore Institute Of Technology</p>
+            <p data-emoji="📞">📞 +91 9857667578</p>
             <p data-emoji="✉️">✉️ contact@xibotix.com</p>
           </div>
           <div className="glass-card map-preview">Map preview</div>
